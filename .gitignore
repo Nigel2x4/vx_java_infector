@@ -3,3 +3,9 @@ victim/**
 output/**
 payloads/**
 util/**
+
+!tmp/.gitkeep 
+!victim/.gitkeep 
+!output/.gitkeep 
+!payloads/.gitkeep 
+!util/.gitkeep 
