@@ -1,0 +1,6 @@
+L0:     new {payload_path}
+L3:     dup
+L4:     invokespecial Method {payload_path} <init> ()V
+L7:     astore_{local_variable_number}
+L8:     aload_{local_variable_number}
+L9:     invokevirtual Method {payload_path} placeholder ()V
