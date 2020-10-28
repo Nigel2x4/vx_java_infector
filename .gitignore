@@ -3,5 +3,3 @@
 ./output/**
 ./payloads/**
 ./util/**
-*.jar
-*.class
