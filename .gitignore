@@ -1,0 +1,7 @@
+./tmp/**
+./victim/**
+./output/**
+./payloads/**
+./util/**
+*.jar
+*.class
